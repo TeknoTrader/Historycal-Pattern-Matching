@@ -243,11 +243,8 @@ Distributed under the **MIT License** — free to use, modify, and share with pr
 ## 👤 Author
 
 **Nicola Chimenti**  
-Business Analyst & Python Developer
-
-🎓 Harvard CS50P Graduate - [View Certificate](https://certificates.cs50.io/1fbe53e1-1594-47fb-b311-aa7b3a91a6d6.pdf?size=letter)  
-🎓 Business Management Graduate  
-💼 Trading Software Developer
+Financial Data Analyst - Python & MQL4/5 Developer
+Business Management Graduate  
 
 🌐 [Personal Website](https://nicolachimenti.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/nicolachimenti/)  
