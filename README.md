@@ -1,4 +1,4 @@
-# 📊 Historical Pattern Matching Analysis by Nicola Chimenti
+# 📊 Historical Pattern Matching by Nicola Chimenti
 
 A **web-based pattern matching tool** built with **Streamlit** and **Python**, designed to find similar historical price patterns in financial markets using Dynamic Time Warping (DTW) and Pearson correlation.  
 This tool helps traders and analysts identify historically similar market conditions and analyze their outcomes to make informed trading decisions.
