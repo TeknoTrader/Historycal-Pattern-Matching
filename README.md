@@ -3,8 +3,6 @@
 A **web-based pattern matching tool** built with **Streamlit** and **Python**, designed to find similar historical price patterns in financial markets using Dynamic Time Warping (DTW) and Pearson correlation.  
 This tool helps traders and analysts identify historically similar market conditions and analyze their outcomes to make informed trading decisions.
 
-**This is my Harvard CS50P Final Project**, Certificate: [View Certificate](https://certificates.cs50.io/1fbe53e1-1594-47fb-b311-aa7b3a91a6d6.pdf?size=letter)
-
 #### Video Demo: https://youtu.be/HUiFik6CIGE
 
 ## 🌐 Live Demo
@@ -258,11 +256,10 @@ Business Management Graduate
 This project was developed as my final project for **CS50P (CS50's Introduction to Programming with Python)** by Harvard University.
 
 **Special Thanks:**
-- Harvard CS50 team for instruction and support
 - Yahoo Finance for providing market data API
 - The Streamlit community for documentation
 - Claude AI for assistance with translations
-
+- Harvard CS50 team for instruction, support and for the inspiration to make this web application as final project. [This is my Harvard CS50P Certificate](https://certificates.cs50.io/1fbe53e1-1594-47fb-b311-aa7b3a91a6d6.pdf?size=letter)
 ---
 
 ## ❓ FAQ
