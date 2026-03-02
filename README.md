@@ -5,7 +5,7 @@ This tool helps traders and analysts identify historically similar market condit
 
 **This is my Harvard CS50P Final Project**, Certificate: [View Certificate](https://certificates.cs50.io/1fbe53e1-1594-47fb-b311-aa7b3a91a6d6.pdf?size=letter)
 
-#### Video Demo: **[Coming Soon]**
+#### Video Demo: https://youtu.be/HUiFik6CIGE
 
 ## 🌐 Live Demo
 
